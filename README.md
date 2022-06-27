@@ -1,4 +1,4 @@
-# DD
+# Docker_Laravel_Vue_MySQL_Nginx
 Dockerの設定ファイル
 
 appコンテナ
